@@ -4,6 +4,7 @@ This project focuses on identifying and classifying phishing emails using machin
 The primary goal of this project is to build a model that can distinguish between phishing and safe emails. The dataset used contains email text, and we aim to classify these emails based on their content.
 ## Dataset
 The dataset used in this project can be found on [Kaggle](https://www.kaggle.com/datasets/subhajournal/phishingemails/data).
+The full Kaggle project is available [here](https://www.kaggle.com/code/beratkaanakan/phishing-emails-mlproject)
 ## Methods
 
 1. **Supervised Learning (Logistic Regression)**:
